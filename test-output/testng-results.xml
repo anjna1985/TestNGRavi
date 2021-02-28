@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-28T13:08:56 EST" name="Default suite" finished-at="2021-02-28T13:09:08 EST" duration-ms="11993">
+    <groups>
+    </groups>
+    <test started-at="2021-02-28T13:08:56 EST" name="Default test" finished-at="2021-02-28T13:09:08 EST" duration-ms="11993">
+      <class name="demoTestNG.DemoTestNG">
+        <test-method is-config="true" signature="connectionEstablished()[pri:0, instance:demoTestNG.DemoTestNG@161479c6]" started-at="2021-02-28T13:08:56 EST" name="connectionEstablished" finished-at="2021-02-28T13:08:56 EST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- connectionEstablished -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:demoTestNG.DemoTestNG@161479c6]" started-at="2021-02-28T13:08:56 EST" name="openBrowser" finished-at="2021-02-28T13:09:08 EST" duration-ms="11913" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="titleValidation()[pri:1, instance:demoTestNG.DemoTestNG@161479c6]" started-at="2021-02-28T13:09:08 EST" name="titleValidation" finished-at="2021-02-28T13:09:08 EST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleValidation -->
+        <test-method signature="imageValidation()[pri:2, instance:demoTestNG.DemoTestNG@161479c6]" started-at="2021-02-28T13:09:08 EST" name="imageValidation" finished-at="2021-02-28T13:09:08 EST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- imageValidation -->
+        <test-method signature="webElementExist()[pri:3, instance:demoTestNG.DemoTestNG@161479c6]" started-at="2021-02-28T13:09:08 EST" name="webElementExist" finished-at="2021-02-28T13:09:08 EST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webElementExist -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:demoTestNG.DemoTestNG@161479c6]" started-at="2021-02-28T13:09:08 EST" name="closeBrowser" finished-at="2021-02-28T13:09:08 EST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="disConnect()[pri:0, instance:demoTestNG.DemoTestNG@161479c6]" started-at="2021-02-28T13:09:08 EST" name="disConnect" finished-at="2021-02-28T13:09:08 EST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- disConnect -->
+      </class> <!-- demoTestNG.DemoTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
